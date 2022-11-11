@@ -66,7 +66,7 @@ img {
 	bottom:20%;
 	width: 200px;
 	transform: translatex(-100%);
-	transition: 4.5s 0.5s linear;
+	transition: 1.5s 0.5s linear;
 }
 [data-index="5"] .bird{
 	left:30%;
