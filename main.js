@@ -64,7 +64,7 @@
             
             // temp++;
             if ( boundingRect.top > window.innerHeight * 0.1 &&
-                 boundingRect.top < window.innerHeight * 0.8){
+                 boundingRect.top < window.innerHeight * 0.6){
                     // console.log(step.dataset.index);
                     // if(currentItem){
                         inactivate();
